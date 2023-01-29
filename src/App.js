@@ -8,7 +8,7 @@ import WhyUs from './components/WhyUS/WhyUs';
 
 function App() {
   return (
-    <div className="font-manrope ">
+    <div className="font-manrope scroll-smooth">
       <Header></Header>
       <Hero></Hero>
       <Products></Products>
